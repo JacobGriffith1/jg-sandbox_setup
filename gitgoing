@@ -8,8 +8,6 @@ setup/./check
 
 setup/./bettyinst
 
-setup/./mysqlinst
-
 setup/./cleanroot
 
 setup/./aliasreminder

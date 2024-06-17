@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo -e "Please enter 'mysql' to start using MySQL. Enter 'exit' to stop using MySQL."
+echo -e "\n"

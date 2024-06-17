@@ -11,4 +11,11 @@ cleanroot: Cleans up the unused files included by default when using an Atlas sa
 
 gitconfig: Configures user's github credentials.
 
-mysqlinst: Installs MySQL and starts service. Use 'mysql' command to utilize MySQL's services.
+
+
+These files are used by the 'engagemysql' command.
+
+
+mysqlinst: Installs MySQL and starts service.
+
+mysqlreminder: Displays a message reminding the user how to start and stop using MySQL.
