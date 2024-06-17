@@ -2,6 +2,9 @@
 
 cd ~
 
+apt update
+echo -e "\n"
+
 apt install mysql-server
 echo -e "\n"
 
