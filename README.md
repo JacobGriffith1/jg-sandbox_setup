@@ -44,6 +44,12 @@ Run the following command to complete setup.
 source alias.sh
 ```
 Your GitHub credentials will now be set, Shellcheck and Betty linters will be ready for use, and a selection of aliases will be at your disposal. Remember; you will need to clone in the repository and run "./gitgoing" and "source alias.sh" once for each sandbox.
+
+Optionally; you may also use the following command to make use of MySQL.
+```bash
+./engagemysql
+```
+You will be prompted to respond to a [Y/n] query, enter 'Y' to complete setup. If you have already used this command in a sandbox, the prompt will be omitted.
 ## Aliases
 The following aliases are included in alias.sh. Please refer to the man pages if you don't understand how aliased commands work. While the aliases are here to make your life easier, they are intended as a tool; not as a crutch.
 
