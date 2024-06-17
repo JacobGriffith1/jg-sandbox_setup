@@ -10,3 +10,5 @@ check: Installs shellcheck.
 cleanroot: Cleans up the unused files included by default when using an Atlas sandbox.
 
 gitconfig: Configures user's github credentials.
+
+mysqlinst: Installs MySQL and starts service. Use 'mysql' command to utilize MySQL's services.

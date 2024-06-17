@@ -13,6 +13,7 @@ This project is designed to be used by Atlas School students for the purpose of 
 
 - Sets user credentials for GitHub
 - Installs Shellcheck and Betty linters
+- Installs MySQL
 - Includes aliases for expediting file setup, navigating repositories, running linters, and using GitHub
 - Composed of a simple framework that can easily be upgraded by users to fit their personal needs
 ## Deployment
